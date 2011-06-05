@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/1">
+        <file>file:/C:/Users/Lukas/Documents/NetBeansProjects/PSI_3/src/psi_3/Controller.java</file>
+        <file>file:/C:/Users/Lukas/Documents/NetBeansProjects/PSI_3/src/psi_3/SongContestModelCommands/SCMAttachObserver.java</file>
+        <file>file:/C:/Users/Lukas/Documents/NetBeansProjects/PSI_3/src/psi_3/SongContestModelCommands/SCMDetachObserver.java</file>
+        <file>file:/C:/Users/Lukas/Documents/NetBeansProjects/PSI_3/src/psi_3/OlympicGameModelCommands/OGMAttachObserver.java</file>
+        <file>file:/C:/Users/Lukas/Documents/NetBeansProjects/PSI_3/src/psi_3/OlympicGameModelCommands/OGMDetachObserver.java</file>
+        <file>file:/C:/Users/Lukas/Documents/NetBeansProjects/PSI_3/src/psi_3/OlympicGameModelCommands/OGMChangeModelState.java</file>
+        <file>file:/C:/Users/Lukas/Documents/NetBeansProjects/PSI_3/src/psi_3/SongContestModelCommands/SCMChangeModelState.java</file>
+        <file>file:/C:/Users/Lukas/Documents/NetBeansProjects/PSI_3/src/psi_3/SongContestModelCommands/SCMNotifyObservers.java</file>
+        <file>file:/C:/Users/Lukas/Documents/NetBeansProjects/PSI_3/src/psi_3/LithuaniaObserver.java</file>
+        <file>file:/C:/Users/Lukas/Documents/NetBeansProjects/PSI_3/src/psi_3/OlympicGameModel.java</file>
+        <file>file:/C:/Users/Lukas/Documents/NetBeansProjects/PSI_3/src/psi_3/CommandProcessor.java</file>
+        <file>file:/C:/Users/Lukas/Documents/NetBeansProjects/PSI_3/src/psi_3/UndoRedoProcessor.java</file>
+        <file>file:/C:/Users/Lukas/Documents/NetBeansProjects/PSI_3/src/psi_3/SongContestModel.java</file>
+        <file>file:/C:/Users/Lukas/Documents/NetBeansProjects/PSI_3/src/psi_3/OlympicGameModelCommands/OGMNotifyObservers.java</file>
+        <file>file:/C:/Users/Lukas/Documents/NetBeansProjects/PSI_3/src/psi_3/OlympicGameModelCommands/OGMPrintModelState.java</file>
+        <file>file:/C:/Users/Lukas/Documents/NetBeansProjects/PSI_3/src/psi_3/SongContestModelCommands/SCMPrintModelState.java</file>
+        <file>file:/C:/Users/Lukas/Documents/NetBeansProjects/PSI_3/src/psi_3/Command.java</file>
+        <file>file:/C:/Users/Lukas/Documents/NetBeansProjects/PSI_3/src/psi_3/Main.java</file>
+        <file>file:/C:/Users/Lukas/Documents/NetBeansProjects/PSI_3/src/psi_3/Observer.java</file>
+        <file>file:/C:/Users/Lukas/Documents/NetBeansProjects/PSI_3/src/psi_3/Observable.java</file>
+        <file>file:/C:/Users/Lukas/Documents/NetBeansProjects/PSI_3/src/psi_3/State.java</file>
+        <file>file:/C:/Users/Lukas/Documents/NetBeansProjects/PSI_3/src/psi_3/Memento.java</file>
+        <file>file:/C:/Users/Lukas/Documents/NetBeansProjects/PSI_3/src/psi_3/LatviaObserver.java</file>
+    </open-files>
+</project-private>
